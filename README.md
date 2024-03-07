@@ -8,3 +8,6 @@ https://docs.google.com/presentation/d/1pBQZ0FJD3DkvaWbyt3sv1AaORq4lshqIg5OklJIm
 
 ## PySAL for Spatial Data Science
 https://github.com/knaaptime/carto_sdsc24
+
+## Data Visualization Clinic
+https://docs.google.com/presentation/d/1_i7J6RIV2ZYpP0JLGAEwYg29R2LmSKonIpH2XFaIMOQ/edit?usp=sharing
