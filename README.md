@@ -8,22 +8,40 @@
 
 - 9 - 9:45 AM
   
-## Modern Geospatial Stack
+### Modern Geospatial Stack
+
 - 9:45 - 10:30 AM
 - Led by David Bianco, Sr Geospatial Architect at Amazon Web Services (AWS)
 - [Slides](https://github.com/CartoDB/sds-bootcamp-sf-2024/blob/master/SDS%20Bootcamp%20San%20Francisco%20-%20Intro%20Modern%20Geospatial-01.pdf)
 
-## Low Code Spatial Analytics Session
+### Low Code Spatial Analytics Session
+
 - 10:30 AM - 12 PM
 - Led by Zack Walker, Solutions Engineer at CARTO
-- [Slides]([https://docs.google.com/presentation/d/1pBQZ0FJD3DkvaWbyt3sv1AaORq4lshqIg5OklJImM5Y/edit?usp=sharing](https://docs.google.com/presentation/d/1pBQZ0FJD3DkvaWbyt3sv1AaORq4lshqIg5OklJImM5Y/edit?usp=sharing))
+- [Slides](https://docs.google.com/presentation/d/1pBQZ0FJD3DkvaWbyt3sv1AaORq4lshqIg5OklJImM5Y/edit?usp=sharing](https://docs.google.com/presentation/d/1pBQZ0FJD3DkvaWbyt3sv1AaORq4lshqIg5OklJImM5Y/edit?usp=sharing))
 
+### Lunch
 
-## PySAL for Spatial Data Science
-https://github.com/knaaptime/carto_sdsc24
+- 12 - 1 PM
+  
+### PySAL for Spatial Data Science
 
-## Scalable Spatial Analytics 
-https://docs.google.com/presentation/d/1rhwFiVQxvGV9yR1vhyuMI9EXYb99kmYNIw8isKtSCuo/edit#slide=id.g27c62a42806_0_610
+- 1 - 2:30 PM
+- Led by Eli Knaap, Associate Director at Center for Open Geographical Science, SDSU
+- [Slides](https://github.com/knaaptime/carto_sdsc24)
 
-## Data Visualization Clinic
-https://docs.google.com/presentation/d/1_i7J6RIV2ZYpP0JLGAEwYg29R2LmSKonIpH2XFaIMOQ/edit?usp=sharing
+### Break
+
+- 2:30 - 3 PM
+
+### Scalable Spatial Analytics
+
+- 3 - 4:30 PM
+- Led by Matt Forrest, Field CTO
+- [Slides](https://docs.google.com/presentation/d/1rhwFiVQxvGV9yR1vhyuMI9EXYb99kmYNIw8isKtSCuo/edit#slide=id.g27c62a42806_0_610)
+
+### Data Visualization Clinic
+
+- 4:30 - 5 PM
+- Led by Eva Estrada-Adler, Solutions Engineer at CARTO
+- [Slides](https://docs.google.com/presentation/d/1_i7J6RIV2ZYpP0JLGAEwYg29R2LmSKonIpH2XFaIMOQ/edit?usp=sharing)
