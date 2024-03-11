@@ -1,4 +1,4 @@
-# Spatial Data Science Bootcamp, SanFran 2024
+# Spatial Data Science Bootcamp, San Fransisco 2024
 
 [Event homepage](https://spatial-data-science-conference.com/bootcamp/2024-new-york](https://spatial-data-science-conference.com/bootcamp/2024-sanfrancisco))
 
