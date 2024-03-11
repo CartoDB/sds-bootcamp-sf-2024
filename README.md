@@ -27,7 +27,7 @@
 ### PySAL for Spatial Data Science
 
 - 1 - 2:30 PM
-- Led by Eli Knaap, Associate Director at Center for Open Geographical Science, SDSU
+- Led by Eli Knaap, Associate Director at Center for Open Geographical Science at SDSU
 - [Slides](https://github.com/knaaptime/carto_sdsc24)
 
 ### Break
@@ -37,7 +37,7 @@
 ### Scalable Spatial Analytics
 
 - 3 - 4:30 PM
-- Led by Matt Forrest, Field CTO
+- Led by Matt Forrest, Field CTO at CARTO
 - [Slides](https://docs.google.com/presentation/d/1rhwFiVQxvGV9yR1vhyuMI9EXYb99kmYNIw8isKtSCuo/edit#slide=id.g27c62a42806_0_610)
 
 ### Data Visualization Clinic
