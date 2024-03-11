@@ -2,6 +2,7 @@
 
 [Event homepage](https://spatial-data-science-conference.com/bootcamp/2024-new-york](https://spatial-data-science-conference.com/bootcamp/2024-sanfrancisco))
 
+
 ## Agenda
 
 ### Welcome, coffee & breakfast
